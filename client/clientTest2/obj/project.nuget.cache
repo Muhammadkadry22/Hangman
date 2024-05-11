@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtwaByW8byY+GcTWPZ2NtHp7U6xiOssI1AXlDAU2f2H3Zb51qicqtU36LL9cpIFczeusrBGJyICwmxxJLw3KBA==",
+  "success": true,
+  "projectFilePath": "E:\\client\\clientTest2\\clientTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed kadry\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\mohamed kadry\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed kadry\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
